@@ -51,7 +51,7 @@ With AI, we can **enhance disease detection accuracy** and **assist medical prof
 
 ### 🔹 Clone the Repository  
 ```bash  
-git clone https://github.com/your-username/AI-Disease-Prediction.git  
+git clone https://github.com/giri-harsh/AI-Disease-Prediction.git  
 cd AI-Disease-Prediction  
 ```
 
